@@ -1,0 +1,10 @@
+*
+!.gitignore
+!README.adoc
+!CHANGELOG.adoc
+!changelog-details/
+!changelog-details/**
+!profile/
+!profile/**
+!AGENTS.md
+!AGENT-RULES.md

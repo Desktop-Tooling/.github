@@ -1,0 +1,6 @@
+= Changelog
+
+== 2026-08-18 — Organization bootstrap
+
+* Public org profile, mark, and changelog for Desktop Tooling.
+* link:changelog-details/2026-08-18%20-%20organization-bootstrap.adoc[Details]

@@ -1,0 +1,6 @@
+= Organization bootstrap
+:date: 2026-08-18
+
+Public `.github` profile for Desktop-Tooling: steel-and-amber window-and-wrench mark, visitor pitch, and sibling pointers to HCI-Nerdz, openshellorg, and Dev-Centr.
+
+No custom domain. Site and docs hubs land on GitHub Pages (`desktop-tooling.github.io`).

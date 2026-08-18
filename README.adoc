@@ -1,0 +1,14 @@
+= Desktop-Tooling `.github`
+:toc:
+
+Organization profile and community health files for link:https://github.com/Desktop-Tooling[Desktop-Tooling].
+
+== Profile
+
+GitHub renders `profile/README.md` on the org landing page.
+
+Logo sources live under `profile/assets/`. Upload `profile/assets/logo-mark-256.png` at link:https://github.com/organizations/Desktop-Tooling/settings/profile[Organization profile settings] (GitHub has no API for org avatars).
+
+== Changelog
+
+See link:CHANGELOG.adoc[CHANGELOG.adoc].
