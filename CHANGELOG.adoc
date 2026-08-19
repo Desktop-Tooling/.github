@@ -1,5 +1,10 @@
 = Changelog
 
+== 2026-08-19 — Profile mark refresh
+
+* Replace the org mark with a monitor-and-tool icon (tool inside the desktop screen).
+* Add `logo-icon.svg` and favicon exports; regenerate `logo-mark.png` and `logo-mark-256.png`.
+
 == 2026-08-18 — Organization bootstrap
 
 * Public org profile, mark, and changelog for Desktop Tooling.
