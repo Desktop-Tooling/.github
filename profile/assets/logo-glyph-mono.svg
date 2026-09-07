@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Desktop Tooling mono glyph - one evenodd path, inherits currentColor.
+  Same silhouette as desktop-tooling-glyph.svg: window frame and title bar
+  filled, both panes knocked out, hex-drive collar as an island inside the
+  content pane with its bore knocked out.
+-->
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 120 100"
+     width="120" height="100"
+     fill="currentColor"
+     role="img"
+     aria-label="Desktop Tooling">
+  <title>Desktop Tooling</title>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="
+    M 17.25 5 H 102.75 A 12.25 12.25 0 0 1 115 17.25 V 82.75 A 12.25 12.25 0 0 1 102.75 95
+    H 17.25 A 12.25 12.25 0 0 1 5 82.75 V 17.25 A 12.25 12.25 0 0 1 17.25 5 Z
+    M 13.5 25.5 H 35 V 86.5 H 17.25 A 3.75 3.75 0 0 1 13.5 82.75 Z
+    M 41 25.5 H 106.5 V 82.75 A 3.75 3.75 0 0 1 102.75 86.5 H 41 Z
+    M 96.74 54.25 A 3.5 3.5 0 0 1 96.74 57.75 L 86.76 75.035 A 3.5 3.5 0 0 1 83.729 76.785
+    L 63.771 76.785 A 3.5 3.5 0 0 1 60.74 75.035 L 50.76 57.75 A 3.5 3.5 0 0 1 50.76 54.25
+    L 60.74 36.965 A 3.5 3.5 0 0 1 63.771 35.215 L 83.729 35.215 A 3.5 3.5 0 0 1 86.76 36.965 Z
+    M 85.817 55.25 A 1.5 1.5 0 0 1 85.817 56.75 L 80.433 66.076 A 1.5 1.5 0 0 1 79.134 66.826
+    L 68.366 66.826 A 1.5 1.5 0 0 1 67.067 66.076 L 61.683 56.75 A 1.5 1.5 0 0 1 61.683 55.25
+    L 67.067 45.924 A 1.5 1.5 0 0 1 68.366 45.174 L 79.134 45.174 A 1.5 1.5 0 0 1 80.433 45.924 Z"/>
+</svg>

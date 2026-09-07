@@ -1,5 +1,12 @@
 = Changelog
 
+== 2026-09-07 — Org mark redraw
+
+* Replace the org mark with a two-pane desktop window carrying a hex-drive socket; the previous monitor-and-driver icon read as anatomy at small sizes.
+* Add the `logo-glyph-mono.svg` currentColor glyph, so the family is glyph / mark / mono.
+* Start the `profile/assets/brand/` revision archive and a maintainer index at `profile/assets/README.md`.
+* Regenerate `logo-mark.png`, `logo-mark-256.png`, and `favicon.ico`.
+
 == 2026-08-19 — Profile mark refresh
 
 * Replace the org mark with a monitor-and-tool icon (tool inside the desktop screen).

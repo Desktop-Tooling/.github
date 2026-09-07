@@ -1,0 +1,37 @@
+revision: 2026-09-07-explorer-socket
+note: >-
+  Current Desktop Tooling org identity. A two-pane desktop window (title bar,
+  navigation pane, content pane) with a hex-drive socket set into the content
+  pane. Reads as the workspace plus the tool that drives it, without a wrench,
+  a shaft, or a centred protrusion. Single amber value on transparent so the
+  isolated glyph holds on both light and dark surfaces; steel arrives via the
+  app tile in the mark.
+  Supersedes the 2026-08-19 monitor-and-driver mark, which read as anatomy at
+  small sizes. The retired files are recoverable from git history.
+palette:
+  amber:  "#E8A838"  # glyph, all strokes and fills
+  steel:  "#101820"  # app tile ground (mark only)
+  slate:  "#243140"  # thin tile rim (mark only)
+  glass:  "#7EC8E3"  # brand accent, reserved for UI - not used in the mark
+geometry:
+  glyph_viewbox: "0 0 120 100"
+  mark_viewbox: "0 0 256 256"
+  mark_transform: "translate(23 40.5) scale(1.75)"
+  frame_stroke: 8.5
+  socket_collar_circumradius: 24
+  socket_bore_circumradius: 12.5
+source_glyph: desktop-tooling-glyph.svg
+source_mark: desktop-tooling-mark.svg
+source_mono: desktop-tooling-glyph-mono.svg
+canonical_copies:
+  - profile/assets/logo.svg              # from glyph
+  - profile/assets/logo-icon.svg         # from glyph
+  - profile/assets/favicon.svg           # from glyph
+  - profile/assets/logo-glyph-mono.svg   # from mono
+  - profile/assets/logo-mark.svg         # from mark
+  - Desktop-Tooling.github.io/public/logo.svg
+  - Desktop-Tooling.github.io/public/logo-mark.svg
+  - docs/docs/modules/ROOT/images/logo.svg
+  - docs/supplemental-ui/img/logo.svg
+validated: rendered and inspected at 16, 32, 48 and 128 px on white and on #101820
+exported: 2026-09-07
